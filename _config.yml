@@ -86,8 +86,8 @@ author:
   location         : "Berlin/ Darmstadt, Germany"
   employer         : "TU Darmstadt"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
-  email            : "boris.meinardus00@gmail.com"
+  googlescholar    : 
+  email            : "jacaranda.media@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sudo-Boris"
+  github           : "jacaranda-media"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BorisMeinardus"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "@borismeinardus"
+  youtube          : 
   wikipedia        :
 
 
