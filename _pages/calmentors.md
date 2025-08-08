@@ -3,7 +3,6 @@ permalink: /calmentors/
 title: "CalMentors"
 author_profile: true
 redirect_from: 
-  - /calmentors/
   - /calmentors.html
 ---
 
